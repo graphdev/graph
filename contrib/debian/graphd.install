@@ -1,0 +1,2 @@
+debian/bin/graphd usr/bin
+src/graphd usr/lib/graph
